@@ -6,7 +6,7 @@ module.exports = defineConfig({
       // implement node event listeners here
     },
     specPattern: "cypress/e2e/**/*.{js,jsx,ts,tsx,feature}",
-    baseUrl: "http://localhost:8080/parabank",
+    baseUrl: "https://parabank.parasoft.com/parabank",
     chromeWebSecurity: false,
     defaultCommandTimeout: 10000,
     pageLoadTimeout: 120000,
