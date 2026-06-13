@@ -82,3 +82,8 @@ Integrate the Cypress test automation framework into Jenkins from a local instan
 - Reach out for any clarifications or assistance.
 
 ---
+---
+
+## Integración CI/CD
+
+Este proyecto se ejecuta como parte del pipeline DevSecOps documentado en [jenkins-devsecops-pipeline](https://github.com/LazaroMax/jenkins-devsecops-pipeline), donde los tests E2E se corren automáticamente después del despliegue.
