@@ -1,4 +1,5 @@
 # Overview
+![Cypress Test Results](./screenshot-tests.png)
 
 ParaBank is a realistic online banking application designed to facilitate fund transactions for users. This document outlines the End-to-End (E2E) test automation framework developed using Cypress for the ParaBank application. The framework comprehensively covers both UI and API test scenarios.
 
